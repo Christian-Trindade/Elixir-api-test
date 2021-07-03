@@ -1,4 +1,4 @@
-# Rocketpay
+# Elixir/Phoenix Api test
 
 To start your Phoenix server:
 
